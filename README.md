@@ -1,4 +1,5 @@
-<h1 align="center"><b> Hi , I'm Miguel </b>  :v:</h1>
+![Banner me](https://github.com/miguelmartin90/miguelmartin90/blob/60bce57a22433b1b1961794dfe79e2c69d67e07e/Banner_me.png)
+
 <!--  -->
 <br>
 <h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> From Colombia 🇨🇴</h3>
