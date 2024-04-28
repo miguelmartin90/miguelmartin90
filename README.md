@@ -6,7 +6,7 @@
 
 # :cat: About Me
 
-I'm a backend developer with experience in Java and technologies like Spring, Spring Security, and JWT. I've worked with databases such as MySQL and MongoDB, and I have skills in Git, GitHub, Swagger, and RabbitMQ.<br><br>I am characterized by my dedicated approach to problem-solving, being meticulous and organized in my work. I possess skills to understand problems from various perspectives and enjoy working in collaborative teams where open communication and mutual support are fundamental.
+I'm a backend developer with experience in Java and technologies like Spring, Spring Security, and JWT. I've worked with databases such as MySQL and MongoDB, and I have skills in Git, GitHub, Swagger, and RabbitMQ.<br><br>I find joy in working with attention to detail, a healthy dose of curiosity, and in an organized manner. I enjoy understanding a problem by approaching it from multiple perspectives and comparing it with easier to understand contexts.
 
 <br>
 
